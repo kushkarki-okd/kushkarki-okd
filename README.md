@@ -6,6 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushkarki-okd" alt="kushkarki-okd" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kushkarki" target="blank"><img src="https://img.shields.io/twitter/follow/kushkarki?logo=twitter&style=for-the-badge" alt="kushkarki" /></a> </p>
+<h1><strong> my articles</strong></h1>
+<p>2pl</p> <a href="https://www.notion.so/2PL-Two-phase-locking-23ba7493c9f780a8bc34c3fa4cb63b02?source=copy_link"
+<h2>django_channels</h2> <a href="https://www.notion.so/The-power-of-Django-channels-25aa7493c9f78072b196d1c9be2383e1?source=copy_link"
+<h2>django_tenants</h2> <a href="https://www.notion.so/Django-Tenant-223a7493c9f780899877cd62363c7fa8?source=copy_link"
+
 
 - 🔭 I’m currently working on **attandance management**
 
