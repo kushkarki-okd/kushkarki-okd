@@ -1,4 +1,7 @@
 <div align="center">
+  Hey this is kush karki the developer
+</div>
+<div align="center">
 
 ```
 ██╗  ██╗██╗   ██╗███████╗██╗  ██╗    ██╗  ██╗ █████╗ ██████╗ ██╗  ██╗██╗
@@ -9,7 +12,7 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 ```
 
-### 🚀 Python · Django · AWS · Docker · DevOps
+ Python · Django · AWS · Docker · DevOps
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kushkarki-okd&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/kushkarki-okd)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kushkarki?logo=twitter&style=flat-square&color=1DA1F2)](https://twitter.com/kushkarki)
@@ -146,6 +149,6 @@ I'm a **Python/Django Developer** transitioning into **DevOps & Cloud Engineerin
 
 <div align="center">
 
-*"Infrastructure is poetry written in YAML."*
+
 
 </div>
